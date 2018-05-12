@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '38280'
     url: http://www.gutenberg.org/2009/agents/38280
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36455#Petit-Glossaire-des-lettres-de-Madame-de-S-vign-
 gutenberg_bookshelf: FR Langues
 gutenberg_issued: '2011-06-17'
 gutenberg_type: Text
